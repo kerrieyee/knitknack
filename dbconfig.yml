@@ -1,0 +1,4 @@
+development:
+    dialect: mysql
+    datasource: root@/go_test?parseTime=true
+    dir: db/migrations
